@@ -17,3 +17,4 @@ Output:
 ## How It Works
 The program accepts a number and uses
 a loop to calculate its factorial.
+take a factorial 
